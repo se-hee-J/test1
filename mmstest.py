@@ -1,3 +1,5 @@
+#장문 MMS 발송 (첨부파일 미 포함)
+
 import requests
 import json
 
