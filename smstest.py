@@ -1,3 +1,5 @@
+#단문 SMS 발송
+
 import requests
 import json
 
